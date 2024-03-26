@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "NEU SASE"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2 2006"
+  logo = "img/logo.png"
+  # secondaryLogo = "PATH"
+  # description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Northeastern SASE"
+  #image = "img/"
+  headline = "Northeastern University's chapter of the Society of Asian Scientists and Engineers"
+  # bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  links = [
+    { instagram = "https://www.instagram.com/northeastern_sase/" },
+    { email = "https://northeastern.us8.list-manage.com/subscribe?u=c5e6f4f32a901c273ccd94a54&id=68cf04c004" },
+    { linkedin = "https://www.linkedin.com/groups/8945090/" },
+  ]

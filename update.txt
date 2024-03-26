@@ -1,0 +1,14 @@
+To run locally:
+Open terminal (w/0 $)
+cd /Users/kyuu/Downloads/sase-site/sase
+hugo server -D
+
+
+To push changes:
+Open terminal (w/o $)
+cd /Users/kyuu/Downloads/sase-site/sase
+hugo -t blowfish
+cd public 
+git add . 
+git commit -m "update"
+git push -u origin main
